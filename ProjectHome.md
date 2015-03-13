@@ -1,0 +1,1 @@
+Check some first bytes of file to get the file type
